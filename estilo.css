@@ -1,0 +1,28 @@
+.mudaFonte{
+    color: white;
+}
+
+.itemAtivo{
+    color:white;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    padding-top: 20px; /* Adiciona margem superior aos títulos */
+}
+
+.footer-title {
+    font-weight: bold;
+}
+
+.social-icons a {
+    margin: 5px;
+}
+
+.card-body {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 10px; /* Ajuste a margem interna conforme necessário */
+}
